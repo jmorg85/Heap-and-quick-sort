@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1523242607 source:c:\users\justice\documents\ece 370 assignments\assignment 5\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+
+1523243092 source:d:\assignment 5\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+
+1523293098 source:f:\assignment 5\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+
+1523293098 source:c:\users\justice's pc\documents\cprojects\assignment 5\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+
